@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá+😊&color=c3c3c3)](https://git.io/typing-svg)
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+☕+and+enjoy&color=c3c3c3)](https://git.io/typing-svg)-->
-Meu nome é Inês Souza e no último ano fiz minha transição de carreira para a área de tecnologia. Concluí um bootcamp de desenvolvimento full stack, iniciei o primeiro semestre da faculdade de Engenharia da Computação pela <a href="https://univesp.br">Univesp</a> e atualmente atuo como Desenvolvedora Backend Jr na Webcore Interactive!
+Meu nome é Inês Souza e no último ano fiz minha transição de carreira para a área de tecnologia. Concluí um bootcamp de desenvolvimento full stack, concluí o primeiro semestre da faculdade de Engenharia da Computação pela <a href="https://univesp.br">Univesp</a> e atualmente atuo como Desenvolvedora Backend Jr na Webcore Interactive!
 
 <br/>
 
