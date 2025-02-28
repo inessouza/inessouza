@@ -7,6 +7,4 @@ Meu nome é Inês Souza, estou no oitavo semestre da faculdade de Engenharia da 
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inessouza&hide=issues,prs&&theme=tokyonight)
-  
 </div>
